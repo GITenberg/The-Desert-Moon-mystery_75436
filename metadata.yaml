@@ -1,0 +1,34 @@
+_repo: The-Desert-Moon-mystery_75436
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Strahan, Kay Cleaver
+    alias: Strahan, Mrs. William Nicholas
+    birthdate: 1888
+    deathdate: 1941
+    gutenberg_agent_id: '57995'
+    url: http://www.gutenberg.org/2009/agents/57995
+    wikipedia: https://en.wikipedia.org/wiki/Kay_Cleaver_Strahan
+description: ''
+gutenberg_issued: '2025-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75436'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/006541564
+pgterms:marc905: 20250214210829strahan
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Brian Raiter
+publication_note: '  $aNew York, NY :$bGrosset & Dunlap, $c1927, copyright 1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Nevada -- Fiction'
+- !lcsh 'Ranches -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Desert Moon mystery
+url: http://www.gutenberg.org/ebooks/75436
